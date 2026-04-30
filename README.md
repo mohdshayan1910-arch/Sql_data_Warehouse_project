@@ -15,6 +15,10 @@ This project involves:
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 ---
+
+## Project architecture
+<img width="1136" height="839" alt="Data Architecture" src="https://github.com/user-attachments/assets/73d009dd-66a9-45e1-8c6e-e4a187ed2359" />
+
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
