@@ -17,7 +17,8 @@ This project involves:
 ---
 
 ## Project architecture
-<img width="1136" height="839" alt="Data Architecture" src="https://github.com/user-attachments/assets/73d009dd-66a9-45e1-8c6e-e4a187ed2359" />
+<img width="1136" height="839" alt="Data Architecture" src="https://github.com/user-attachments/assets/b035891e-2abe-49eb-a38d-7b43d0126815" />
+
 
 ## 🚀 Project Requirements
 
